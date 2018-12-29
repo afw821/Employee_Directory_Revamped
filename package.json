@@ -1,0 +1,25 @@
+{
+  "name": "employee_directory_revamped",
+  "version": "1.0.0",
+  "description": "A revised version of a mock employee directory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afw821/Employee_Directory_Revamped.git"
+  },
+  "author": "Alex F. Watkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afw821/Employee_Directory_Revamped/issues"
+  },
+  "homepage": "https://github.com/afw821/Employee_Directory_Revamped#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1",
+    "path": "^0.12.7"
+  }
+}
